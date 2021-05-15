@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, React, redux, Angular, Node.js & .Net Core
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on React
-- 📫 How to reach me <a targer="_blank">https://www.linkedin.com/in/suresh-yalamanchi/</a>
+- 📫 How to reach me <a target="_blank" href="https://www.linkedin.com/in/suresh-yalamanchi/">linkedin: suresh-yalamanchi/</a>
 
 <!---
 sureshyalamanchi/sureshyalamanchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
